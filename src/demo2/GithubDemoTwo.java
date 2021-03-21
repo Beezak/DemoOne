@@ -12,5 +12,8 @@ public class GithubDemoTwo {
 	System.out.println("****stars****");
 
 	}
+	public void again() {
+		System.out.println("third time");
+	}
 
 }
